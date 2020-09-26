@@ -1,0 +1,30 @@
+/**/
+
+body{
+  font-family:Consolas;
+  background-color:rgba(143, 140, 140, 0.842); 
+  }
+
+*{
+  margin:0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+#fiCompra{
+  display: none;
+}
+
+#buscar{
+  border-radius:10rem; 
+}
+
+#dados{
+  font-family: Ubuntu;
+  margin-top: 10px;
+  margin-bottom: 2px;
+  color: rgb(39, 34, 34);
+  font-weight: bold;
+  font-size: 25px;
+  background-color:hsl(60, 64%, 79%); 
+}
